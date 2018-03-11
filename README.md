@@ -6,5 +6,5 @@
 * 搭建nodejs环境
 * 使用命令行工具cd 到脚手架目录下，并执行下列命令
 * npm i
-* npm run dev
+* npm run dev  
 然后在浏览器中打开[http://localhost:3000/](http://localhost:3000/)，就可以看到演示项目
